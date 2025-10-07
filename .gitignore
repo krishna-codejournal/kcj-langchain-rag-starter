@@ -1,72 +1,10 @@
-# Virtual Environment
-venv/
-.venv/
-env/
-ENV/
-
-# Environment Variables
-.env
-.env.local
-.env.*.local
-
-# Python
+# Python-generated files
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+*.py[oc]
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
 wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+*.egg-info
 
-# IDEs and Editors
-.idea/
-.vscode/
-*.swp
-*.swo
-*~
-.vs/
-
-# Operating System
-.DS_Store
-Thumbs.db
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-
-# Testing
-.coverage
-htmlcov/
-.pytest_cache/
-.tox/
-
-# Project specific
-logs/
-*.log
-output/
-data/
-models/
-*.pkl
-*.h5
-
-# Dependencies
-node_modules/
-package-lock.json
-yarn.lock
-
-# Distribution
-dist/
-build/
+# Virtual environments
+.venv

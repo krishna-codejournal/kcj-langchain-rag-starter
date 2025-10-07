@@ -1,0 +1,4 @@
+ProductID,ProductName,Price,Stock,Rating,Description
+1,Laptop,999.99,50,4.5,A high-performance laptop suitable for all your computing needs.
+2,Smartphone,499.99,200,4.7,A sleek and powerful smartphone with cutting-edge features.
+3,Tablet,299.99,150,4.3,A lightweight tablet perfect for browsing and media consumption.

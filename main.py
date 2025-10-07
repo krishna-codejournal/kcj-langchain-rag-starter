@@ -1,5 +1,5 @@
 def main():
-    print("Hello from kcj-rag-core-repo!")
+    print("Hello from kcj-langchain-rag-starter!")
 
 
 if __name__ == "__main__":

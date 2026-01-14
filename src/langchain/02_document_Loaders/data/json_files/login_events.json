@@ -1,0 +1,54 @@
+[
+    {
+        "user_id": 1,
+        "page": "home",
+        "event": "login"
+    },
+    {
+        "user_id": 2,
+        "page": "products",
+        "event": "view"
+    },
+    {
+        "user_id": 1,
+        "page": "cart",
+        "event": "add_to_cart"
+    },
+    {
+        "user_id": 3,
+        "page": "checkout",
+        "event": "purchase",
+        "amount": 99.99
+    },
+    {
+        "user_id": 2,
+        "page": "home",
+        "event": "logout"
+    },
+    {
+        "user_id": 4,
+        "page": "home",
+        "event": "login"
+    },
+    {
+        "user_id": 4,
+        "page": "products",
+        "event": "view"
+    },
+    {
+        "user_id": 4,
+        "page": "cart",
+        "event": "add_to_cart"
+    },
+    {
+        "user_id": 4,
+        "page": "checkout",
+        "event": "purchase",
+        "amount": 49.99
+    },
+    {
+        "user_id": 4,
+        "page": "home",
+        "event": "logout"
+    }
+]

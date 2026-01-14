@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name": "X Tech Solutions",
+        "location": "New York",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Alice",
+                "position": "Engineer",
+                "skills": [
+                    "Python",
+                    "Machine Learning"
+                ],
+                "address": {
+                    "street": "123 Main St",
+                    "city": "New York",
+                    "zip": "10001"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Bob",
+                "position": "Manager",
+                "skills": [
+                    "Project Management"
+                ],
+                "address": {
+                    "street": "456 Elm St",
+                    "city": "New York",
+                    "zip": "10001"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Innovatech",
+        "location": "San Francisco",
+        "employees": [
+            {
+                "id": 3,
+                "name": "Charlie",
+                "position": "Designer",
+                "skills": [
+                    "UI/UX",
+                    "Graphic Design"
+                ],
+                "address": {
+                    "street": "789 Pine St",
+                    "city": "San Francisco",
+                    "zip": "94107"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Diana",
+                "position": "Developer",
+                "skills": [
+                    "JavaScript",
+                    "React"
+                ],
+                "address": {
+                    "street": "101 Oak St",
+                    "city": "San Francisco",
+                    "zip": "94107"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Global Dynamics",
+        "location": "Chicago",
+        "employees": [
+            {
+                "id": 5,
+                "name": "Eve",
+                "position": "Analyst",
+                "skills": [
+                    "Data Analysis",
+                    "SQL"
+                ],
+                "address": {
+                    "street": "202 Maple St",
+                    "city": "Chicago",
+                    "zip": "60601"
+                }
+            },
+            {
+                "id": 6,
+                "name": "Frank",
+                "position": "Consultant",
+                "skills": [
+                    "Business Strategy"
+                ],
+                "address": {
+                    "street": "303 Birch St",
+                    "city": "Chicago",
+                    "zip": "60601"
+                }
+            }
+        ]
+    }
+]

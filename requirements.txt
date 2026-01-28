@@ -12,7 +12,9 @@ langgraph>=0.6.9
 langchain-astradb>=1.0.0,<2.0.0
 langchain-pinecone
 langchain-classic #use langchain-classic for “anything from the previous langchain.retrievers module
-
+langchain-google-genai
+langgraph-cli[inmem]
+langgraph-cli[inmem]
 
 # Vector Stores & Embeddings
 chromadb>=0.3.23

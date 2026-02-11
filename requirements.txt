@@ -15,6 +15,12 @@ langchain-classic #use langchain-classic for “anything from the previous langc
 langchain-google-genai
 langgraph-cli[inmem]
 langgraph-cli[inmem]
+langchainhub>=0.1.15
+langgraph_supervisor 
+
+# lanchain tools
+arxiv
+langchain-tavily
 
 # Vector Stores & Embeddings
 chromadb>=0.3.23
